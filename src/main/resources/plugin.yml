@@ -1,0 +1,4 @@
+name: ServerAnnounce
+version: ${project.version}
+main: com.gflclan.remuchu.serverannounce.ServerAnnounce
+api-version: 1.13
